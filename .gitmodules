@@ -1,0 +1,6 @@
+[submodule "controller-cadastro-autenticacao"]
+	path = controller-cadastro-autenticacao
+	url = https://github.com/LW-Solution/controller-cadastro-autenticacao.git
+[submodule "controller-gerenciamento-estacoes-metricas"]
+	path = controller-gerenciamento-estacoes-metricas
+	url = https://github.com/LW-Solution/controller-gerenciamento-estacoes-metricas.git
