@@ -4,3 +4,9 @@
 [submodule "controller-gerenciamento-estacoes-metricas"]
 	path = controller-gerenciamento-estacoes-metricas
 	url = https://github.com/LW-Solution/controller-gerenciamento-estacoes-metricas.git
+[submodule "controller-tratamento-dados"]
+	path = controller-tratamento-dados
+	url = https://github.com/LW-Solution/controller-tratamento-dados.git
+[submodule "controller-recepcao-dados"]
+	path = controller-recepcao-dados
+	url = https://github.com/LW-Solution/controller-recepcao-dados.git
