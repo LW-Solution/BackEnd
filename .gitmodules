@@ -10,3 +10,6 @@
 [submodule "controller-recepcao-dados"]
 	path = controller-recepcao-dados
 	url = https://github.com/LW-Solution/controller-recepcao-dados.git
+[submodule "device-control"]
+	path = device-control
+	url = https://github.com/LW-Solution/device-control.git
